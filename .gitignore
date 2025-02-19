@@ -1,0 +1,4 @@
+# removing model file 
+# colorization_release_v2.caffemodel
+
+*.caffemodel
