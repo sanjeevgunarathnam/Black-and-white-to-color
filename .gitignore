@@ -1,4 +1,5 @@
 # removing model file 
+# large file size
 # colorization_release_v2.caffemodel
 
 *.caffemodel
